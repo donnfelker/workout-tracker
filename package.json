@@ -1,0 +1,15 @@
+{
+  "name": "workout-tracker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0beta4",
+    "jade": "*",
+    "mongoose": "~2.7.x"
+  },
+  "author": "Donn Felker <donn@donnfelker.com> (http://blog.donnfelker.com)",
+  "description": "An demo application that tracks daily workouts as an example of how to create an API."
+}
